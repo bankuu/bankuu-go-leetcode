@@ -1,7 +1,7 @@
 /*
 
  * 1. Two Sum
- * Summit Count : 1 Time
+ * Summit Count : 1 time
  * Time used : 13 m
 
  * Solve by バンクー

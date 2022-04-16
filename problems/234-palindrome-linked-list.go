@@ -11,11 +11,6 @@
 
 package main
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func main() {
 	result := isPalindrome(&ListNode{Val: 1, Next: &ListNode{Val: 2}})
 	print(result)
