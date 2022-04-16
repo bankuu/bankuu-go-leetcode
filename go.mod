@@ -1,3 +1,3 @@
-module bankuu-stackoverflow
+module bankuu-go-leetcode
 
 go 1.18
