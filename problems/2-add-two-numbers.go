@@ -1,7 +1,7 @@
 /*
 
  * 2. Add Two Number
- * Summit Count : 3 times
+ * Submit Count : 3 times
  * Time used : 52 m
 
  * Solve by バンクー

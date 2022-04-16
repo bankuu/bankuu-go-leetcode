@@ -1,7 +1,7 @@
 /*
 
  * 13. Roman to Integer
- * Summit Count : 1 time
+ * Submit Count : 1 time
  * Time used : 20 m
 
  * Solve by バンクー

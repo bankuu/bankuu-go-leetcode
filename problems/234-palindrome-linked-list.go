@@ -1,7 +1,7 @@
 /*
 
  * 234. Palindrome Linked List
- * Summit Count : 7 times
+ * Submit Count : 7 times
  * Time used : 32 m
 
  * Solve by バンクー
