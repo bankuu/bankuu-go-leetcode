@@ -1,8 +1,8 @@
 /*
 
  * 13. Roman to Integer
- * Summit Count : 1 Time
- * Time used : 20 min
+ * Summit Count : 1 time
+ * Time used : 20 m
 
  * Solve by バンクー
  * Code with L#v

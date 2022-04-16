@@ -1,8 +1,8 @@
 /*
 
  * 234. Palindrome Linked List
- * Summit Count : 7 Times
- * Time used : 32 min
+ * Summit Count : 7 times
+ * Time used : 32 m
 
  * Solve by バンクー
  * Code with L#v
