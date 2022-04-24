@@ -19,3 +19,9 @@ func CreateListNode(intAry []int) (head *ListNode) {
 	}
 	return
 }
+
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
