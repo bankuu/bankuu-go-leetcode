@@ -1,5 +1,16 @@
 package main
 
+/*
+
+ * 118. Pascals-Triangle
+ * Submit Count : 1 time
+ * Time used :  20 minute
+
+ * Solve by バンクー
+ * Code with L#v
+
+ */
+
 import "fmt"
 
 func generate(numRows int) [][]int {
