@@ -1,6 +1,7 @@
 version: 16
 jobs:
 - name: sync-to-github
+  jobExecutor: job-executors
   steps:
   - !PushRepository
     name: github
