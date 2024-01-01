@@ -38,6 +38,35 @@ func Test_addTwoNumbers(t *testing.T) {
 				},
 			},
 		},
+		{
+			name: "example2",
+			args: args{
+				l1: &ListNode{
+					Val: 2, Next: &ListNode{
+						Val: 4, Next: &ListNode{
+							Val: 9},
+					},
+				},
+				l2: &ListNode{
+					Val: 5, Next: &ListNode{
+						Val: 6, Next: &ListNode{
+							Val: 4, Next: &ListNode{
+								Val: 9},
+						},
+					},
+				},
+			},
+			want: &ListNode{
+				Val: 7, Next: &ListNode{
+					Val: 0, Next: &ListNode{
+						Val: 4, Next: &ListNode{
+							Val: 0, Next: &ListNode{
+								Val: 1},
+						},
+					},
+				},
+			},
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
