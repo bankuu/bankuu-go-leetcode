@@ -12,7 +12,7 @@ func longestPalindrome(s string) string {
 		rpos := pos
 
 		fmt.Printf("lpos : %d, rpos: %d\n", lpos, rpos)
-		
+
 		find := func(pos int) {
 			iasq := true
 			ibsq := true
